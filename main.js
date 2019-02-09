@@ -1,4 +1,4 @@
-var inputs = document.getElementsByTagName("input")
+var inputs = document.getElementsByTagName("textarea")
 var buttons = document.getElementsByTagName("button")
 var result = document.getElementById("result")
 

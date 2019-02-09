@@ -5,7 +5,14 @@ body {
 	text-align : center;
 }
 
-input {
+
+textarea {
+	font-family: "Ubuntu";
+	display: block;
+	margin: auto;
+
+	padding-top: 10px;
+	margin-bottom: 5px;
 	background: #C8963E;
 	outline: none;
 	border: 1px;
@@ -13,6 +20,7 @@ input {
 	border: 20px;
 	width: 30%;
 	height: 10%;
+
 }
 
 button {
